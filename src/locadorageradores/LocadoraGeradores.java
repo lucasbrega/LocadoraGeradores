@@ -18,6 +18,6 @@ public class LocadoraGeradores
     public static void main(String[] args)
     {
        System.out.println("ola");
-    }
+    }//add by lucas web
     
 }
